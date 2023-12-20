@@ -30,16 +30,7 @@ Framework / Flask / Node JS.
  GET http://127.0.0.1:8000/weather/data/?page=2 the weather details is displayed<br>
  GET http://127.0.0.1:8000/weather/data/?page=3 the weather details is displayed
  
-## Installation
-Install my-project with python
-```bash
-  git clone https://github.com/sasikiran20/Infilect.git
-  cd Infilect
-  py -m venv env
-  env\Scripts\activate
-  pip install -r requirements.txt
-  py manage.py runserver
-```
+
 
 ### credentials
 
